@@ -1,4 +1,4 @@
-![Banner profile](https://github.com/sanhendrindp/sanhendrindp/blob/main/Banner%20GitHubv1.2.png)
+![Banner profile](images/Banner%20GitHubv1.2.png)
 
 ### Hi there 👋
 
